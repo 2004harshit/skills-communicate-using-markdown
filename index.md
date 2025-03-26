@@ -1,5 +1,5 @@
-# Now I am adding code snippet
+# Making a Task List
 
-```
-print("THis is python code snippet")
-```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
