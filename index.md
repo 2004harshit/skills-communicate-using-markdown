@@ -1,3 +1,5 @@
-# I am adding image
+# Now I am adding code snippet
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+```
+print("THis is python code snippet")
+```
